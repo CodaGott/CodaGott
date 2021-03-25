@@ -1,4 +1,6 @@
--  Hi, 👋 I’m Dozie
+-  Hi, 👋 I’m Dozie!
+
+
 A developer, black dude, I love speed (Bikes & Fast Cars), MMA lover, Christian, Millionaire in training, 
 amature photographer, Fitness enthusiast, African, meat eater, omnivore, Sometimes a gamer.
 
