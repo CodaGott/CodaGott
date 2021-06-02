@@ -6,7 +6,7 @@ amature photographer, Fitness enthusiast, African, meat eater, omnivore, Sometim
 
 - 🌱 I’m currently learning web application development, JS and React.
 - 💞️ I’m looking to collaborate on Java and Python projects.
-- 📫 How to reach me by sending a mail to u.chukwuebuka@semicolon.africa
+- 📫Reach me by sending a mail to u.chukwuebuka@semicolon.africa
  
 <!---
 ⚡ Fun fact: 
