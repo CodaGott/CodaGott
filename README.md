@@ -1,7 +1,7 @@
 -  Hi 👋! I’m Dozie!
 
 
-A swarthy developer, I love speed (Bikes & Fast Cars), combat sport lover, Christian, Millionaire in training, 
+Swarty, Software Engineer, I love speed (Bikes & Fast Cars), combat sport lover, Christian, Millionaire in training, 
 amature photographer, Fitness enthusiast Certified Personal Trainer(ACE), African (Obviously), meat eater, omnivore, Sometimes a gamer.
 
 - 🌱 I’m currently learning web application development, JS and React for Front-End development.
