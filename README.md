@@ -7,7 +7,7 @@ amature photographer, Fitness enthusiast Certified Personal Trainer(ACE), Africa
 - 🌱 I’m currently building cool stuff with Java (SpringBoot).
 - ✨ Learning Golang and will be building API's soon.
 - 💞️ I’m looking to collaborate on Java(Spring Boot), Golang projects.
-- 📫Reach me via a mail to greatchidozie@gmail.com or we can connect on bird-app (Twitter) @itschidozie
+- 📫Reach me via a mail to cuyanwune@outlook.com or we can connect on bird-app (Twitter) @itschidozie
  
 <!---
 ⚡ Fun fact: 
