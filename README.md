@@ -1,8 +1,8 @@
 -  Hi 👋! I’m Dozie!
 
 
-Swarty, Software Engineer, I love speed (Bikes & Fast Cars), combat sport lover, Christian, Millionaire in training, 
-amature photographer, Fitness enthusiast Certified Personal Trainer(ACE), African 🙄🙄(Obviously), meat eater, Sometimes a gamer.
+Swarty, Software Engineer, I love speed (Bikes & Fast Cars), combat sport lover, Christian,
+amature photographer, Fitness enthusiast Certified Personal Trainer(ACE), Sometimes a gamer.
 
 - 🌱 I’m currently building cool stuff with Java (SpringBoot).
 - ✨ Learning Golang and will be building API's soon.
