@@ -1,4 +1,4 @@
--  Hi 👋! I’m Dozie!
+-  Hi 👋! I’m Chukwuebuka Chidozie Uyanwune, you can call me Chuks!
 
 
 Swarty, Software Engineer, I love speed (Bikes & Fast Cars), combat sport lover, Christian,
