@@ -5,9 +5,9 @@ Swarty, Software Engineer, I love speed (Bikes & Fast Cars), combat sport lover,
 amature photographer, Fitness enthusiast Certified Personal Trainer(ACE), Sometimes a gamer.
 
 - 🌱 I’m currently building cool stuff with Java (SpringBoot).
-- ✨ Learning Golang and will be building API's soon.
+- ✨ Learning JS and will be building API's soon.
 - 💞️ I’m looking to collaborate on Java(Spring Boot), Golang projects.
-- 📫Reach me via a mail to cuyanwune@outlook.com or we can connect on bird-app (Twitter) @itschidozie
+- 📫Reach me via email at cuyanwune@outlook.com.
  
 <!---
 ⚡ Fun fact: 
