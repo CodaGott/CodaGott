@@ -1,4 +1,4 @@
-Hi 👋! I’m Chukwuebuka Chidozie Uyanwune.
+Hi 👋! I’m Dozie.
 
 Software Engineer, amature photographer and a fitness enthusiast.
 
