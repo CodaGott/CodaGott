@@ -1,9 +1,8 @@
-Hi 👋! I’m Dozie.
+Hi 👋! I’m Chidozie.  Software Engineer, Technical Writer, Amature photographer and a fitness enthusiast.
 
-Software Engineer, amature photographer and a fitness enthusiast.
+I have 5 Years experience working with Technologies like Java, Python and Go.
 
-I pride myself in my ability to LEARN, UNLEARN, & RELEARN.
+I have experience working across different industries (FinTech, EdTech, HealthTech and Energy) building digital products.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codagott&hide_progress=true)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codagott)](https://github.com/anuraghazra/github-readme-stats)                      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codagott&hide_progress=true)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codagott)](https://github.com/anuraghazra/github-readme-stats)
