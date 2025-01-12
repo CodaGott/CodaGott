@@ -1,4 +1,4 @@
-Hi 👋! I’m Chidozie.  Software Engineer, Technical Writer, Amature photographer and a fitness enthusiast.
+Hi 👋! I’m Chidozie.  Software Engineer, Technical Writer, Author, Amature photographer and a fitness enthusiast.
 
 I have 5 Years experience working with Technologies like Java, Python and Go.
 
